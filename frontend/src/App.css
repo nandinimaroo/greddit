@@ -1,0 +1,152 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.login{
+  font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;}
+
+.box{
+  text-align: center;
+  background:white;
+  width:400px;
+  border-radius:6px;
+  margin: 0 auto 0 auto;
+  padding:0px 0px 70px 0px;
+  border: #c0d3e0 4px solid;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  background:#e2bad2;
+  border: #ccc 1px solid;
+  border-bottom: #ccc 2px solid;
+  padding: 8px;
+  /* width:250px; */
+  color:#0a0a0a;
+  margin-top:10px;
+  font-size:1em;
+  border-radius:4px;
+}
+
+
+.button-51 {
+  background-color: transparent;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  color: #00132C;
+  /* font-family: "Avenir Next LT W01 Bold",sans-serif; */
+  /* font-size: 16px; */
+  /* font-weight: 700; */
+  word-spacing: 0.1px;
+  font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+  line-height: 24px;
+  padding: 16px 23px;
+  position: relative;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-51:hover,
+.button-51:active {
+  outline: 0;
+}
+
+.button-51:hover {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.button-51:before {
+  background-color: #fac7e6;
+  content: "";
+  height: calc(100% + 3px);
+  position: absolute;
+  right: -7px;
+  top: -9px;
+  transition: background-color 300ms ease-in;
+  width: 100%;
+  z-index: -1;
+}
+
+.button-51:hover:before {
+  background-color: #e2bad2;
+}
+
+@media (min-width: 768px) {
+  .button-51 {
+    padding: 16px 32px;
+  }
+}
+
+
+.button-52 {
+  transition-duration: 0.4s;
+  padding: 16px 32px;
+  font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+
+}
+
+.button-52:hover {
+  background-color: #e2bad2; /* Green */
+  color: white;
+}
+
+.button-52:disabled{
+
+  opacity: 1;
+  cursor: not-allowed;
+}
+
+.button-53 {
+  background: none!important;
+  font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+  border: none;
+  padding: 0!important;
+  color: rgb(80, 33, 72);
+  text-decoration: underline;
+  cursor: pointer;
+}
+.datainprof
+{
+  font-weight: bolder;
+  font-size:x-large;
+  color: #750659;
+  
+}
