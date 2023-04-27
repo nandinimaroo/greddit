@@ -1,7 +1,7 @@
 # GREDDIT
 
-###### DASS Spring 23 Assignment-1
-##### Nandini Maroo 
+##### DASS Spring 23 Assignment-1
+###### Nandini Maroo 
 ###### 2021111012
 
 
