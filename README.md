@@ -1,8 +1,8 @@
 # GREDDIT
 
 ##### DASS Spring 23 Assignment-1
-###### Nandini Maroo 
-###### 2021111012
+Nandini Maroo 
+2021111012
 
 
 ## How to use?
